@@ -77063,18 +77063,18 @@ n=A.bP(A.ajn(A.b([new A.t(g),new A.t(f)],m),o,n),h,300)
 o=A.eR(40)
 l=A.b([new A.t(g),new A.t(f)],m)
 k=A.eR(40)
-j=A.cw().$2$fontSize$fontWeight(14,B.C)
+j=A.cw().$2$fontSize$fontWeight(12,B.C)
 j=A.uy(A.alj(A.afs(h,B.hJ,h,h,h,h,h,h,!0,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,A.cw().$3$color$fontSize$fontWeight(new A.t(4290559164),14,B.C),"enter your instagram post url",h,h,h,h,!0,!0,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h),j))
 i=A.eR(40)
 m=A.b([new A.t(g),new A.t(f)],m)
-l=A.dI(h,A.dI(h,A.l_(A.b([j,A.dI(B.a2,A.c1("Scan",h,h,h,h,h,h,h,h,A.cw().$3$color$fontSize$fontWeight(B.i,14,B.C),h,h,h,h,h),B.u,h,new A.c8(B.i,h,h,i,h,new A.i_(B.bR,B.cb,B.bw,m,h,h),B.a3),48,h,h,142)],e),B.cx,B.aG),B.u,h,new A.c8(B.i,h,h,k,h,h,B.a3),h,new A.au(1.5,1.5,1.5,1.5),new A.au(12,8,12,8),h),B.u,h,new A.c8(h,h,h,o,h,new A.i_(B.bR,B.cb,B.bw,l,h,h),B.a3),64,new A.au(0,20,0,0),h,382)
+l=A.dI(h,A.dI(h,A.l_(A.b([j,A.dI(B.a2,A.c1("Scan",h,h,h,h,h,h,h,h,A.cw().$3$color$fontSize$fontWeight(B.i,12,B.C),h,h,h,h,h),B.u,h,new A.c8(B.i,h,h,i,h,new A.i_(B.bR,B.cb,B.bw,m,h,h),B.a3),48,h,h,100)],e),B.cx,B.aG),B.u,h,new A.c8(B.i,h,h,k,h,h,B.a3),h,new A.au(1.5,1.5,1.5,1.5),new A.au(12,8,12,8),h),B.u,h,new A.c8(h,h,h,o,h,new A.i_(B.bR,B.cb,B.bw,l,h,h),B.a3),50,new A.au(0,20,0,0),h,300)
 o=A.bP(h,32,h)
 k=A.c1("Create a giveaway in 1 Minute ",h,h,h,h,h,h,h,h,A.cw().$3$color$fontSize$fontWeight(B.k,16,B.C),h,h,h,h,h)
 m=A.eR(40)
-return A.m7(A.b([d,r,q,p,n,l,o,k,A.dI(B.a2,A.c1("Create Giveaway",h,h,h,h,h,h,h,h,A.cw().$3$color$fontSize$fontWeight(B.i,14,B.C),h,h,h,h,h),B.u,h,new A.c8(B.k,h,h,m,h,h,B.a3),48,new A.au(0,8,0,0),h,170),A.bP(h,22,h),A.bP(A.c1(u.f,h,h,h,h,h,h,h,h,A.cw().$3$color$fontSize$fontWeight(new A.t(4290295992),12,B.v),B.cD,h,h,h,h),h,368),A.bP(h,25,h),A.l_(A.b([A.c1("Crafted with ",h,h,h,h,h,h,h,h,A.cw().$3$color$fontSize$fontWeight(B.k,14,B.C),h,h,h,h,h),A.Fe(B.mm,new A.t(4294531423),h),A.c1(" in Kerala,India",h,h,h,h,h,h,h,h,A.cw().$3$color$fontSize$fontWeight(B.k,14,B.C),h,h,h,h,h)],e),B.eb,B.aG),A.bP(h,30,h)],e),B.bC,B.aG)}}
+return A.m7(A.b([d,r,q,p,n,l,o,k,A.dI(B.a2,A.c1("Create Giveaway",h,h,h,h,h,h,h,h,A.cw().$3$color$fontSize$fontWeight(B.i,14,B.C),h,h,h,h,h),B.u,h,new A.c8(B.k,h,h,m,h,h,B.a3),48,new A.au(0,8,0,0),h,170),A.bP(h,22,h),A.bP(A.c1(u.f,h,h,h,h,h,h,h,h,A.cw().$3$color$fontSize$fontWeight(new A.t(4290295992),12,B.v),B.cD,h,h,h,h),h,300),A.bP(h,25,h),A.l_(A.b([A.c1("Crafted with ",h,h,h,h,h,h,h,h,A.cw().$3$color$fontSize$fontWeight(B.k,14,B.C),h,h,h,h,h),A.Fe(B.mm,new A.t(4294531423),h),A.c1(" in Kerala,India",h,h,h,h,h,h,h,h,A.cw().$3$color$fontSize$fontWeight(B.k,14,B.C),h,h,h,h,h)],e),B.eb,B.aG),A.bP(h,30,h)],e),B.bC,B.aG)}}
 A.F2.prototype={
-R(a){var s=null,r=A.bI(a,s,t.w).w,q=A.eR(40),p=A.b([new A.d_(0,B.bU,A.V(13,0,0,0),new A.h(0,2),0)],t.sq),o=A.bP(A.ajv("assets/images/titleIcon.png"),48,118),n=A.uy(A.dI(s,s,B.u,s,s,s,s,s,s)),m=A.c1("Login",s,s,s,s,s,s,s,s,A.cw().$3$color$fontSize$fontWeight(B.k,16,B.aV),s,s,s,s,s),l=A.bP(s,s,15),k=A.eR(20)
-return A.dI(s,A.l_(A.b([o,n,m,l,A.dI(s,A.c1("SignUp",s,s,s,s,s,s,s,s,A.cw().$3$color$fontSize$fontWeight(B.i,16,B.aV),s,s,s,s,s),B.u,s,new A.c8(B.k,s,s,k,s,s,B.a3),s,s,new A.au(24,8,24,8),s)],t.E),B.cx,B.aG),B.u,s,new A.c8(B.i,s,s,q,p,s,B.a3),80,new A.au(30,20,30,20),new A.au(30,0,30,0),r.a.a)}}
+R(a){var s=null,r=A.bI(a,s,t.w).w,q=A.eR(40),p=A.b([new A.d_(0,B.bU,A.V(13,0,0,0),new A.h(0,2),0)],t.sq),o=A.bP(A.ajv("assets/images/titleIcon.png"),48,118),n=A.uy(A.dI(s,s,B.u,s,s,s,s,s,s)),m=A.c1("Login",s,s,s,s,s,s,s,s,A.cw().$3$color$fontSize$fontWeight(B.k,14,B.aV),s,s,s,s,s),l=A.bP(s,s,15),k=A.eR(20)
+return A.dI(s,A.l_(A.b([o,n,m,l,A.dI(s,A.c1("SignUp",s,s,s,s,s,s,s,s,A.cw().$3$color$fontSize$fontWeight(B.i,14,B.aV),s,s,s,s,s),B.u,s,new A.c8(B.k,s,s,k,s,s,B.a3),s,s,new A.au(24,8,24,8),s)],t.E),B.cx,B.aG),B.u,s,new A.c8(B.i,s,s,q,p,s,B.a3),80,new A.au(20,20,20,20),new A.au(30,0,30,0),r.a.a)}}
 A.Gh.prototype={
 R(a){var s,r,q,p,o,n,m,l,k,j,i,h=null,g=4294923861,f=4292043263,e=t.E,d=A.b([],e)
 for(s=0;s<5;++s)d.push(A.Fe(B.mn,new A.t(4293179938),24))
