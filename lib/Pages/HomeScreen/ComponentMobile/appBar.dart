@@ -11,7 +11,7 @@ class HomeAppBarMobile extends StatelessWidget {
       width: MediaQuery.of(context).size.width,
       height: 80,
       padding: EdgeInsets.symmetric(horizontal: 30),
-      margin: EdgeInsets.symmetric(horizontal: 30, vertical: 20),
+      margin: EdgeInsets.symmetric(horizontal: 20, vertical: 20),
       decoration: BoxDecoration(
           borderRadius: BorderRadius.circular(40),
           color: Colors.white,
@@ -30,7 +30,7 @@ class HomeAppBarMobile extends StatelessWidget {
           Text(
             "Login",
             style: GoogleFonts.ubuntu(
-                fontSize: 16, fontWeight: FontWeight.w700, color: Colors.black),
+                fontSize: 14, fontWeight: FontWeight.w700, color: Colors.black),
           ),
           SizedBox(
             width: 15,
@@ -42,7 +42,7 @@ class HomeAppBarMobile extends StatelessWidget {
             child: Text(
               "SignUp",
               style: GoogleFonts.ubuntu(
-                  fontSize: 16,
+                  fontSize: 14,
                   fontWeight: FontWeight.w700,
                   color: Colors.white),
             ),

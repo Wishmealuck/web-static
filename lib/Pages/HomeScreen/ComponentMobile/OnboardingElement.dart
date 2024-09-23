@@ -44,19 +44,21 @@ class OnBoardingElementViewMobile extends StatelessWidget {
           width: 300,
           child: GradientAnimationText(
               duration: Duration(seconds: 1),
-              text: Text("Make Every Wish a Giveaway",
-                  textAlign: TextAlign.center,
-                  style: GoogleFonts.ubuntu(
-                      letterSpacing: -2.4,
-                      height: 1,
-                      fontSize: 40,
-                      fontWeight: FontWeight.w700)),
+              text: Text(
+                "Make Every Wish a Giveaway",
+                textAlign: TextAlign.center,
+                // style: GoogleFonts.ubuntu(
+                //     letterSpacing: -2.4,
+                //     height: 1,
+                //     fontSize: 40,
+                //     fontWeight: FontWeight.w700)
+              ),
               colors: [Color(0xffFF5655), Color(0xffD361FF)]),
         ),
         Container(
-          width: 382,
+          width: 300,
           margin: EdgeInsets.only(top: 20),
-          height: 64,
+          height: 50,
           decoration: BoxDecoration(
               borderRadius: BorderRadius.circular(40),
               gradient: LinearGradient(
@@ -75,7 +77,7 @@ class OnBoardingElementViewMobile extends StatelessWidget {
 
                       //height: 1,
                       // color: Color(0xffBCBCBC),
-                      fontSize: 14,
+                      fontSize: 12,
                       fontWeight: FontWeight.w500),
                   decoration: InputDecoration(
                       border: InputBorder.none,
@@ -91,7 +93,7 @@ class OnBoardingElementViewMobile extends StatelessWidget {
                           fontWeight: FontWeight.w500)),
                 )),
                 Container(
-                  width: 142,
+                  width: 100,
                   alignment: Alignment.center,
                   height: 48,
                   decoration: BoxDecoration(
@@ -105,7 +107,7 @@ class OnBoardingElementViewMobile extends StatelessWidget {
 
                           //height: 1,
                           color: Colors.white,
-                          fontSize: 14,
+                          fontSize: 12,
                           fontWeight: FontWeight.w500)),
                 ),
               ],
@@ -145,7 +147,7 @@ class OnBoardingElementViewMobile extends StatelessWidget {
           height: 22,
         ),
         SizedBox(
-          width: 368,
+          width: 300,
           child: Text(
               "Your privacy matters. We ensure a secure and transparent experience, every time.",
               textAlign: TextAlign.center,
